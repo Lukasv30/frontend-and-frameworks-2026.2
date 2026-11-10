@@ -1,7 +1,8 @@
 // api.js - camada de serviço
 // Este arquivo SÓ conversa com a API (fetch). Nada de DOM aqui.
 
-const BASE = "https://dummyjson.com";
+const BASE = "https://dummyjson.com"; // "https://dummyjson.com/xx"
+
 
 // O "garçom": todas as outras funções pedem a ela.
 async function get(caminho) {
