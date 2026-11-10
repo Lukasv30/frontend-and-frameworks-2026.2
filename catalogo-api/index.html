@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lanchonete - Catálogo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Catálogo da Lanchonete</h1>
+    <p id="pedido">Pedido: 0 itens</p>
+  </header>
+
+  <!-- Desafio extra 2: campo de busca -->
+  <form id="busca">
+    <input id="busca-texto" type="search" placeholder="Buscar produto..." autocomplete="off">
+    <button type="submit">Buscar</button>
+  </form>
+
+  <nav id="categorias"></nav>
+  <p id="mensagem"></p>
+  <main id="catalogo"></main>
+  <dialog id="detalhe"></dialog>
+
+  <!-- api.js precisa vir ANTES de app.js: app.js usa as funções dele -->
+  <script src="api.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
