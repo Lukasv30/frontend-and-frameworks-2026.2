@@ -8,6 +8,12 @@ Repositório da disciplina **Front-End Frameworks** (Análise e Desenvolvimento 
 
 ---
 
+| Nome | GitHub |
+|------|--------|---------------|
+| Lucas Victor | [@Lukasv30](https://github.com/Lukasv30) |
+
+---
+
 ## Encontro 10 · Catálogo de Produtos com API REST
 
 Catálogo de produtos de uma lanchonete, construído com **HTML + CSS + JavaScript puro** (sem framework e sem bundler), que consome a API pública [DummyJSON](https://dummyjson.com) usando `fetch` e `async/await`.
