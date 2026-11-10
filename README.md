@@ -9,8 +9,8 @@ Repositório da disciplina **Front-End Frameworks** (Análise e Desenvolvimento 
 ---
 
 | Nome | GitHub |
-|------|--------|---------------|
-| Lucas Victor | [@Lukasv30](https://github.com/Lukasv30) |
+|------|--------|
+| Lucas Victor | [@Lukasv30](https://github.com/Lukasv30) 
 
 ---
 
